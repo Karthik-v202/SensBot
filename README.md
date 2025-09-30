@@ -12,6 +12,8 @@ SensBot is a remotely operated vehicle (ROV) designed for real-time environmenta
 
 ![SensBot - Environmental Sensing Robot](https://karthik-v202.github.io/SensBot/Screenshot%202025-09-30%20203230.png)
 
+![SensBot - Environmental Sensing Robot](https://karthik-v202.github.io/SensBot/SensBot%20explode%20view.gif)
+
 ![Blynk - Control Surface web](https://karthik-v202.github.io/SensBot/Screenshot%202025-07-10%20101821.png)
 
 ![Blynk - Control Surface mobile](https://karthik-v202.github.io/SensBot/Screenshot_2025-07-10-10-16-25-904_cloud.blynk-edit.png)
