@@ -70,6 +70,10 @@ Requirements
 Uploading Code
 - Clone the repo
 
+- Copy config_template.h to config.h in the project root.
+- Open config.h and fill in your Wi-Fi SSID, password, and Blynk credentials (token, template ID, device name).
+- **Do not commit your real credentials to the repository.**
+
 - Connect ESP8266 via USB
 
 - Select board & COM port

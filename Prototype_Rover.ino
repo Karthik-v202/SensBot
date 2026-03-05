@@ -1,7 +1,5 @@
 // Include the library files
-#define BLYNK_TEMPLATE_ID "TMPLsbAvPX1P"
-#define BLYNK_DEVICE_NAME "Prototype"
-#define BLYNK_AUTH_TOKEN "4L1qUPr6q3lzFXsPIuHS4OZa3WwNvLpk"
+#include "config.h" // <-- Add this file with your credentials (see config_template.h)
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -20,9 +18,9 @@
 int x = 50;
 int y = 50;
 
-char auth[] = "4L1qUPr6q3lzFXsPIuHS4OZa3WwNvLpk"; //Enter your Blynk auth token
-char ssid[] = "Suresh @ MAK NET"; //Enter your WIFI name
-char pass[] = "password@123"; //Enter your WIFI passowrd
+char auth[] = BLYNK_AUTH_TOKEN;
+char ssid[] = WIFI_SSID;
+char pass[] = WIFI_PASSWORD;
 int smokeA0 = A0;
 int data = 0;
 int sensorThres = 0;
