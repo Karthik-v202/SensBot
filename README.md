@@ -87,3 +87,7 @@ Uploading Code
 This project is open-source under the MIT License. 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
